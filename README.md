@@ -13,5 +13,6 @@ To run this project, click on the "deployable application" link below. Enter you
 ![project screenshot](develop/images/screenshot.png)
 
 ### LINKS
-Deployable Application:
-Github: 
+Deployable Application: https://maxonemillion.github.io/day-planner/
+
+Github: https://github.com/maxonemillion/day-planner 
