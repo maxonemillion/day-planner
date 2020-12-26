@@ -6,13 +6,13 @@ This app helps organize a day's events. It allows a person to save daily plans b
 ### USES:
 Moment.js, Bootstrap, HTML, CSS, JavaScript, jQuery
 
-### SCREENSHOT
+### SCREENSHOT:
 ![project screenshot](develop/images/screenshot.png)
 
-### INFORMATION
+### INFORMATION:
 [Here](https://maxonemillion.github.io/day-planner) is the link to the deployed app.  [Here](https://github.com/maxonemillion/day-planner "Link to github repository") is the Github repository for this project.
 
-### CONTACT
+### CONTACT:
 * max.daniel@utah.edu
 * [LinkedIn](https://www.linkedin.com/in/maximilian-daniel1/ "Link to LinkedIn page")
 * [Github](https://github.com/maxonemillion "Link to Github page")
