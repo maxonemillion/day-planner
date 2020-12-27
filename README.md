@@ -10,7 +10,7 @@ Moment.js, Bootstrap, HTML, CSS, JavaScript, jQuery
 ![project screenshot](develop/images/screenshot.png)
 
 ### INFORMATION:
-[Here](https://maxonemillion.github.io/day-planner) is the link to the deployed app.  [Here](https://github.com/maxonemillion/day-planner "Link to github repository") is the Github repository for this project.
+[Here](https://maxonemillion.github.io/day-planner) is the link to the deployed app. 
 
 ### CONTACT:
 * max.daniel@utah.edu
